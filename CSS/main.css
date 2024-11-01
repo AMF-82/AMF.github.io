@@ -7,7 +7,7 @@ body {
     font-family: "Courier New", Courier, monospace;
     /* cette code est pour mettre le font pour tout les mots dans le titre */
     font-style: bold;
-    font-size: 28px;
+    font-size: 50px;
     /* cette code est pour mettre un taille au titre */
     text-align: center;
     /* cette code est pour mettre mon titre au centre du page */
@@ -17,7 +17,7 @@ body {
 p {
     font-family: "Courier New", Courier, monospace;
     font-style: bold;
-    font-size: 14px;
+    font-size: 25px;
     /* cette code est pour mettre  */
     text-align: center;
     margin-top: 20px;
