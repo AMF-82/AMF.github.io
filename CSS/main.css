@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 #title {
-    font-family: Itim;
+    font-family: "Georgia", serif;;
     /* cette code est pour mettre le font pour tout les mots dans le titre */
     font-style: bold;
     font-size: 50px;
